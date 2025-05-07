@@ -40,9 +40,9 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://front-end-portfolio-maximo-ojeda.onrender.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://front-end-portfolio-maximo-ojeda.onrender.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:us3rnamew0rk18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/us3r0jeda6161"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/us3r0jeda6161" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 	
 </p>
